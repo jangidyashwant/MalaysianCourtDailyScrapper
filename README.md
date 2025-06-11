@@ -109,6 +109,4 @@ Feel free to reach out for freelance or collaboration opportunities!
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
